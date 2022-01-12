@@ -1,6 +1,6 @@
 def sum_3(a,b):
     for i in range(a,b):
-        if i%2==0:
+        if i%2==1:
             print(i)
             
         else:
